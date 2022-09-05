@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# SMARTBrain 5.0 Frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
