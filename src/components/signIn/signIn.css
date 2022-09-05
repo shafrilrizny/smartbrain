@@ -1,0 +1,32 @@
+.btnSubmit {
+  width: 215px;
+  height: 70px;
+  border: none;
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow:  -20px -20px 60px #bebebe,
+              20px 20px 60px #ffffff;
+}
+
+.card {
+  width: 480px;
+  height: 550px;
+  border: none;
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow:  -20px -20px 60px #bebebe,
+              20px 20px 60px #ffffff;
+}
+
+.inputContainer {
+    margin: auto;
+    margin-top: 5%;
+    padding-left: 15%;
+    height: 55px;
+    width: 325px;
+    border: none;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: inset -10px -10px 30px #bebebe, 
+                inset 10px 10px 110px #ffffff;
+}

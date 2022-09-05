@@ -1,0 +1,11 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  height: 50px;
+}
+
+p {
+  cursor: pointer;
+  padding: 5%;
+  text-decoration: underline;
+}
