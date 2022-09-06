@@ -6,20 +6,20 @@ import Logo from './components/logo/logo';
 import ImageLinkForm from './components/imgLink/imgLink';
 import FaceRecognition from './components/face/face';
 import Rank from './components/rank/rank';
-import Particles from 'react-particles-js';
+// import Particles from 'react-particles-js';
 import './App.css';
 
-const particlesOptions = {
-  particles: {
-    number: {
-      value: 85,
-      density: {
-        enable: true,
-        value_area: 800
-      }
-    }
-  }
-}
+// const particlesOptions = {
+//   particles: {
+//     number: {
+//       value: 85,
+//       density: {
+//         enable: true,
+//         value_area: 800
+//       }
+//     }
+//   }
+// }
 
 const initialState = {
   input: '',
