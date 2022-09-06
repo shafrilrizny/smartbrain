@@ -117,10 +117,10 @@ class App extends Component {
     const { signedIn, imageUrl, route, box } = this.state;
     return (
       <div className='App'>
-          <Particles 
+          {/* <Particles 
             className='particles'
             params={particlesOptions}
-          />
+          /> */}
           <Navigation signedIn = { signedIn } onRouteChange = { this.onRouteChange }/>
           { route === 'home' 
             ? <div>

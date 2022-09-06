@@ -6,7 +6,6 @@
     "clarifai": "^2.9.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-particles-js": "^3.3.0",
     "react-scripts": "^4.0.3",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.12.0"
